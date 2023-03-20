@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/nexus-point)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nexuspoint)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nexuspoint)
+[![PluralSight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)](https://app.pluralsight.com/profile/nexuspoint)
 [![Website](https://img.shields.io/website?label=nexuspoint.dev&style=for-the-badge&url=https%3A%2F%2Fnexuspoint.dev)](https://nexuspoint.dev)
 
 
