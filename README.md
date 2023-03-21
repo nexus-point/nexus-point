@@ -10,9 +10,38 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nexuspointt)
 [![Website](https://img.shields.io/website?label=nexuspoint.dev&style=for-the-badge&url=https%3A%2F%2Fnexuspoint.dev)](https://nexuspoint.dev)
 
-# Tech Stack
+<details>
+  <summary>:zap: Skills</summary>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,redux,nextjs,vuejs,express,nginx,jest,sass,tailwindcss,bootstrap,aws,redis,docker,kubernetes,sequelize,graphql,apollo,git,markdown,github,githubactions,mysql,mongodb,linux,webpack,vite,vim,bash,rabbitmq,workers,prometheus,grafana,postman,idea,&theme=dark)](https://nexuspoint.dev)
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs&theme=dark)](https://nexuspoint.dev)
+
+## Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vuejs,&theme=dark)](https://nexuspoint.dev)
+
+## Databases
+
+[![Frameworks](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://nexuspoint.dev)
+
+## Packages
+
+[![Packages](https://skillicons.dev/icons?i=redux,express,jest,redis,sequelize,graphql,apollo,webpack,vite&theme=dark)](https://nexuspoint.dev)
+
+## Services
+
+[![Services](https://skillicons.dev/icons?i=aws,nginx,redis,docker,kubernetes,github,githubactions,linux,rabbitmq,workers,prometheus,grafana&theme=dark)](https://nexuspoint.dev)
+
+## UI
+
+[![UI](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,markdown&theme=dark)](https://nexuspoint.dev)
+
+## Tools
+
+[![Tools](https://skillicons.dev/icons?i=idea,postman,git,vim,bash&theme=dark)](https://nexuspoint.dev)
+
+</details>
 
 <details>
   <summary>:zap: About</summary>
