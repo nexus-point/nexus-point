@@ -53,7 +53,7 @@
   - :1st_place_medal: I have certifications such as AWS Practitioner and Developer Associate.
   - :goal_net: 2023 goals include learning Rust, GoLang, Web3.
   - :building_construction: currently working on multiple SaaS solutions.
-  - 💻 I consider myself to be a lifelong learner, I continuously learning new technologies and best practices in my areas of expertise.
+  - 💻 I consider myself to be a lifelong learner, I am continuously learning new technologies and follow best practices in my areas of expertise.
 
 </details>
 
