@@ -49,9 +49,11 @@
   <summary>:zap: About</summary>
   
   - :palm_tree: I'm a fullstack developer with experince in node.js / javascript / typescript / react.
+  - 🎓 I'm degree qualified with a Bachelor's degree in Information Technology.
   - :1st_place_medal: I have certifications such as AWS Practitioner and Developer Associate.
   - :goal_net: 2023 goals include learning Rust, GoLang, Web3.
   - :building_construction: currently working on multiple SaaS solutions.
+  - 💻 I consider myself to be a lifelong learner, I continuously learning new technologies and best practices in my areas of expertise.
 
 </details>
 
@@ -59,5 +61,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="nexuspoint's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexus-point&count_private=true&show_icons=true&theme=dark" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-point&layout=compact)](https://github.com/nexus-point)
 
 </details>
