@@ -73,6 +73,6 @@
 
   <img align="left" alt="nexuspoint's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexus-point&count_private=true&show_icons=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-point&layout=compact)](https://github.com/nexus-point)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-point&layout=compact&theme=dark)](https://github.com/nexus-point)
 
 </details>
