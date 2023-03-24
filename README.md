@@ -13,6 +13,29 @@
 [![Website](https://img.shields.io/website?label=nexuspoint.dev&style=for-the-badge&url=https%3A%2F%2Fnexuspoint.dev)](https://nexuspoint.dev)
 
 <details>
+  <summary>:zap: About</summary>
+  
+  - :palm_tree: I'm a fullstack developer with experince in node.js / javascript / typescript / react.
+  - 🎓 I'm degree qualified with a Bachelor's degree in Information Technology.
+  - :1st_place_medal: I have certifications such as AWS Practitioner and Developer Associate.
+  - :goal_net: 2023 goals include learning Rust, GoLang, Web3.
+  - :building_construction: currently working on multiple SaaS solutions.
+  - 💻 I consider myself to be a lifelong learner, I am continuously learning new technologies and follow best practices in my areas of expertise.
+
+</details>
+
+<details>
+  <summary>:zap: Soft Skills</summary>
+  
+   - Event-Driven Architecture
+   - Domain-Driven Design (DDD)
+   - Microservices
+   - Service-Oriented Architecture (SOA)
+   - Test Driven Development
+
+</details>
+
+<details>
   <summary>:zap: Skills</summary>
 
 ## Languages
@@ -42,18 +65,6 @@
 ## Tools
 
 [![Tools](https://skillicons.dev/icons?i=idea,postman,git,vim,bash&theme=dark)](https://nexuspoint.dev)
-
-</details>
-
-<details>
-  <summary>:zap: About</summary>
-  
-  - :palm_tree: I'm a fullstack developer with experince in node.js / javascript / typescript / react.
-  - 🎓 I'm degree qualified with a Bachelor's degree in Information Technology.
-  - :1st_place_medal: I have certifications such as AWS Practitioner and Developer Associate.
-  - :goal_net: 2023 goals include learning Rust, GoLang, Web3.
-  - :building_construction: currently working on multiple SaaS solutions.
-  - 💻 I consider myself to be a lifelong learner, I am continuously learning new technologies and follow best practices in my areas of expertise.
 
 </details>
 
