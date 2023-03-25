@@ -25,18 +25,24 @@
 </details>
 
 <details>
-  <summary>:zap: Soft Skills</summary>
+  <summary>:zap: Skills</summary>
   
    - Event-Driven Architecture
    - Domain-Driven Design (DDD)
    - Microservices
    - Service-Oriented Architecture (SOA)
    - Test Driven Development
+   - Unified Modeling Language (UML)
+   - Design Patterns
+   - SOLID design principles
+   - object-oriented programming (OOP)
+   - don't repeat yourself principle (DRY)
+   - Keep it simple, Stupid! (KISS)
 
 </details>
 
 <details>
-  <summary>:zap: Skills</summary>
+  <summary>:zap: Software Skills</summary>
 
 ## Languages
 
