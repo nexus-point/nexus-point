@@ -82,3 +82,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-point&layout=compact&theme=dark)](https://github.com/nexus-point)
 
 </details>
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/@nexuspointt)
