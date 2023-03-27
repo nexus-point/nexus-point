@@ -90,3 +90,11 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@nexuspointt)
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/nexuspoint)
