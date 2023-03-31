@@ -28,6 +28,7 @@
 <details>
   <summary>:zap: Skills</summary>
   
+   - API development
    - Event-Driven Architecture
    - Domain-Driven Design (DDD)
    - Microservices
@@ -43,7 +44,7 @@
 </details>
 
 <details>
-  <summary>:zap: Software Skills</summary>
+  <summary>:zap: Tech Skills</summary>
 
 ## Languages
 
