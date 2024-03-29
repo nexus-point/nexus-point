@@ -15,6 +15,7 @@
 
 [![Website](https://img.shields.io/website?label=nexuspoint.dev&style=for-the-badge&url=https%3A%2F%2Fnexuspoint.dev)](https://nexuspoint.dev)
 -->
+<!--
 <details>
   <summary>:zap: About</summary>
   
@@ -44,6 +45,7 @@
    - Keep it simple, Stupid! (KISS)
 
 </details>
+-->
 
 <!-- 
 <details>
