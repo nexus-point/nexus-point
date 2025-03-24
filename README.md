@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I am an experienced full-stack developer specializing in Node.js, TypeScript, JavaScript, C# .NET, front-end framewords such as React.js, Next.js, Vue.js, Angular.js with expertise in cloud platforms like AWS, Azure and a strong background in databases including MySQL, MS SQL, and MongoDB.
+I am an experienced full-stack developer specializing in Node.js, TypeScript, JavaScript, C# .NET, JAVA along with front-end framewords such as React.js, Next.js, Vue.js, Angular.js with expertise in cloud platforms like AWS, Azure and a strong background in databases including MySQL, MS SQL, and MongoDB.
 
 ## 🔨 Technical Skills
 
@@ -11,12 +11,13 @@ I am an experienced full-stack developer specializing in Node.js, TypeScript, Ja
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-F80000?logo=java&logoColor=white)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue-dot-js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
 
 ### Object Relational Mapper (ORM)
