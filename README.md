@@ -26,7 +26,6 @@ I am an experienced full-stack developer specializing in Node.js, TypeScript, Ja
 ![TypeORM](https://img.shields.io/badge/TypeORM-FF6363?logo=typeorm&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
 ![Linq](https://img.shields.io/badge/Linq-512BD4?logo=dotnet&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?logo=go&logoColor=white)
 
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
