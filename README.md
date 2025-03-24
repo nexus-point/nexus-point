@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I am an experienced full-stack developer specializing in Node.js, TypeScript, JavaScript, C# .NET, with expertise in cloud platforms like AWS, Azure and a strong background in databases including MySQL, MS SQL, and MongoDB.
+I am an experienced full-stack developer specializing in Node.js, TypeScript, JavaScript, C# .NET, front-end framewords such as React.js, Next.js, Vue.js, Angular.js with expertise in cloud platforms like AWS, Azure and a strong background in databases including MySQL, MS SQL, and MongoDB.
 
 ## 🔨 Technical Skills
 
